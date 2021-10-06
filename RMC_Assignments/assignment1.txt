@@ -1,0 +1,8 @@
+Write a program to calculate the length of DNA Sequence in python. Take the sequence from user.
+Write  a program to calculate the GC percentage of DNA sequence. Take the sequence from the user.
+Write a program to mutate a sequence taken from user. Accept sequence as a input from the user. Take position and mutated base as argument.
+Write a program to slice the sequence in two halves. Print the result. Take the sequence from the user. 
+Print position of  the 2nd occurrence of “A”  in the sequence “ATCGATAGATACAA”.
+Write a program to check which stop codons are present in the sequence  “UAAAAGGCGAGAUAAAUA” .
+suppose that we have few restriction enzyme recognition sites ["ACGTC","CTAGT","ATGCTA"] find sites with their frequencies in the DNA sequences of  delta strain of COVID 19.
+Write a program to reverse the second half region of a DNA sequence. "ATGATAGATAGATGATATCGATAGTA".
