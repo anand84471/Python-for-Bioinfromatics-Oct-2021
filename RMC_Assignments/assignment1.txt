@@ -6,3 +6,17 @@ Print position of  the 2nd occurrence of “A”  in the sequence “ATCGATAGATA
 Write a program to check which stop codons are present in the sequence  “UAAAAGGCGAGAUAAAUA” .
 suppose that we have few restriction enzyme recognition sites ["ACGTC","CTAGT","ATGCTA"] find sites with their frequencies in the DNA sequences of  delta strain of COVID 19.
 Write a program to reverse the second half region of a DNA sequence. "ATGATAGATAGATGATATCGATAGTA".
+
+
+
+"""
+1. Write a program to calculate the length of DNA Sequence in python. Take the sequence from user.
+"""
+#SOLUTION
+
+
+"""
+2. Write a program to calculate the length of DNA Sequence in python. Take the sequence from user.
+"""
+
+#SOLUTION
