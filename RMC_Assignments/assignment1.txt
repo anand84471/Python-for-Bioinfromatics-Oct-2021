@@ -20,3 +20,7 @@ Write a program to reverse the second half region of a DNA sequence. "ATGATAGATA
 """
 
 #SOLUTION
+
+
+
+#4

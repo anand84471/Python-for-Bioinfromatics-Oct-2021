@@ -5,13 +5,13 @@
 # #Note: The input funcion will always return the type as string so if
 # #we need the type int or float we have to perform the explicit type casting
 
-# gc_percentage=30.4  
+gc_percentage=30.4  
 
-# #for conversion to decimal values
-# gc_percentage2=float(input("Please enter the gc percentgae"))
-# #for conversion to the integer value
+#for conversion to decimal values
+gc_percentage2=float(input("Please enter the gc percentgae"))
+#for conversion to the integer value
 
-# print(gc_percentage+gc_percentage2)
+print(gc_percentage+gc_percentage2)
 
 # length=int(input("Please enter the length"))
 # width=int(input("Please enter the width"))
