@@ -10,7 +10,7 @@ print(len(all_epitopes))
 #common eitopes
 
 common_epitopes=t_cell_epitopes&b_cell_epitopes
-print(common_epitopes) #all the epitopes that are present in bcell but in tcell
+print(common_epitopes) 
 
 #all the epitopes that are present in tcell but in bcell
 print(t_cell_epitopes-b_cell_epitopes)
@@ -18,4 +18,6 @@ print(t_cell_epitopes-b_cell_epitopes)
 #all the epitopes that are present in bcell but in tcell
 print(b_cell_epitopes-t_cell_epitopes)
 
+#all the epitopes that are present in either t cell or bcell but not in both
+print(b_cell_epitopes^t_cell_epitopes)
 
