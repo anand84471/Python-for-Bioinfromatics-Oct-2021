@@ -5,3 +5,19 @@
 # Q4. Write a program to transcribe the sequence "ATGCTCGCGTAA"
 # Q5. Concatenate two lists of GC Values [30.5,12,54,23,84] and [12,45,54,32] 
 #     and find the maxium and minum GC Values.
+
+
+
+
+#
+def check_sequence(rna_seq):
+    result={"UAA":0,
+           "UGA":0,
+            "UAG":0
+           }
+    for codons in ["UAA","UGA","UAG"]:
+        if codons in rna_seq:
+            result[codons]+=1
+    return result
+rna_seq="UAAAAGGCGAGAUAAAUA"  
+print(check_sequence(rna_seq))

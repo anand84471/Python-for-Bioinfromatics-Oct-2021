@@ -1,4 +1,4 @@
-path=r"C:\learning\github\main\Python-for-Bioinfromatics-Oct-2021\day10\blast_result.txt"
+path=r"C:\learning\github\main\Python-for-Bioinfromatics-Oct-2021\day10\working_with_text_files\blast_result.txt"
 file=open(path,"r")
 
 #read
@@ -10,4 +10,5 @@ file=open(path,"r")
 
 #readlines
 for lines in file.readlines():
-    print(lines)
+    if len(lines)>2:
+        print(lines)
