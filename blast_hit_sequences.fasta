@@ -1,0 +1,882 @@
+LOCUS       XM_021875076            1173 bp    mRNA    linear   PLN 20-JUL-2017
+DEFINITION  PREDICTED: Chenopodium quinoa cold-regulated 413 plasma membrane
+            protein 2-like (LOC110697660), mRNA.
+ACCESSION   XM_021875076
+VERSION     XM_021875076.1
+DBLINK      BioProject: PRJNA394242
+KEYWORDS    RefSeq.
+SOURCE      Chenopodium quinoa (quinoa)
+  ORGANISM  Chenopodium quinoa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Chenopodiaceae; Chenopodioideae;
+            Atripliceae; Chenopodium.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_018742204.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Chenopodium quinoa Annotation
+                                           Release 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1173
+                     /organism="Chenopodium quinoa"
+                     /mol_type="mRNA"
+                     /cultivar="QQ74"
+                     /db_xref="taxon:63459"
+                     /chromosome="Unknown"
+                     /tissue_type="leaves"
+                     /dev_stage="flowering"
+                     /country="Saudi Arabia"
+     gene            1..1173
+                     /gene="LOC110697660"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 1 Protein, and 86% coverage of the
+                     annotated genomic feature by RNAseq alignments"
+                     /db_xref="GeneID:110697660"
+     CDS             285..902
+                     /gene="LOC110697660"
+                     /codon_start=1
+                     /product="cold-regulated 413 plasma membrane protein
+                     2-like"
+                     /protein_id="XP_021730768.1"
+                     /db_xref="GeneID:110697660"
+                     /translation="MGRGVNYMAMTPEQLAAANLINSDINELKIVVMTLIHDASRLGG
+                     TSGFGTHFLRWLASLAAIYLLILDRTNWRTNMLTSLLVPYIFLSLPSGPFYLLRGEVG
+                     KWIAFVAVVLRLFFHRRFPEWLEMPGSLILLLVVAPELLAHKLKDSWMGVVILLIIGC
+                     YLLQEHIRATGGLRNSFTQSHGISYTIGLLLLLAYPIWSMVIFMI"
+ORIGIN      
+        1 cataaataga aacatgggcc aattttgtac aaaggcataa atgggcttat gggcttatag
+       61 tataaactaa caagtgtagt tccgcttgtt aaggtttcag cagcctattc attcggatca
+      121 agcaaatttt gtggctattt tacattctaa tacgttcgaa acgttacttt attttcttca
+      181 atcttcacat acttaccgta ataatattac actttggttt ttcacacaca tattatcatt
+      241 ttataggatt taagcgagct aaggaaaaga ataggagacc gaaaatgggc agaggagtga
+      301 attatatggc aatgacacct gagcaactag ccgcggccaa tttgatcaac tccgacatca
+      361 atgagctcaa gatcgttgtg atgacactca ttcatgatgc ttctagactc ggcggcacct
+      421 caggatttgg aactcatttt cttagatggc tagcctctct tgctgctatt tacttgttga
+      481 tcctggatcg cacaaattgg agaaccaaca tgctcacatc actcttagta ccatacatat
+      541 tcctcagtct tccttctggc cctttttacc ttcttagggg tgaggttggg aaatggattg
+      601 cttttgtcgc ggttgtgcta aggctattct tccaccgccg cttcccagaa tggttagaga
+      661 tgccaggatc actgatacta ttgttggtgg tagctccaga attgctagca cacaaattaa
+      721 aggatagttg gatgggagtt gtaattctgt taatcatagg gtgttatttg ctgcaagaac
+      781 atatcagggc aactggtggt ttaagaaatt cgtttactca aagccatgga atttcctata
+      841 cgattgggct gcttctctta ttggcttacc caatttggtc catggttatt ttcatgattt
+      901 aatttgttca tcaactttta ctttttaaat tatacactgc cataattatt actcctgtta
+      961 aatttgtgaa ataggtaatt aaaaggtttt catccaattt tcatcaatcc catcccattt
+     1021 tctttggtcc aacttttgct ttctaatgtc attcattata aatccttgag aaatgataaa
+     1081 tctattcccg ttatatttat acaagaatca atcaagggcc ttttttgaaa actaaactta
+     1141 aggcctgttc tcgttgactg aactcaggtg aac
+//
+
+LOCUS       XM_021992092             672 bp    mRNA    linear   PLN 01-AUG-2017
+DEFINITION  PREDICTED: Spinacia oleracea cold-regulated 413 plasma membrane
+            protein 2-like (LOC110787470), mRNA.
+ACCESSION   XM_021992092
+VERSION     XM_021992092.1
+DBLINK      BioProject: PRJNA396054
+KEYWORDS    RefSeq.
+SOURCE      Spinacia oleracea (spinach)
+  ORGANISM  Spinacia oleracea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Chenopodiaceae; Chenopodioideae;
+            Anserineae; Spinacia.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NW_018931520.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Spinacia oleracea Annotation Release
+                                           100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..672
+                     /organism="Spinacia oleracea"
+                     /mol_type="mRNA"
+                     /cultivar="Sp75"
+                     /db_xref="taxon:3562"
+                     /chromosome="Unknown"
+                     /country="China"
+                     /lat_lon="30.83 N 121.52 E"
+                     /collection_date="2013"
+     gene            1..672
+                     /gene="LOC110787470"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 10 Proteins, and 84% coverage of
+                     the annotated genomic feature by RNAseq alignments"
+                     /db_xref="GeneID:110787470"
+     CDS             14..631
+                     /gene="LOC110787470"
+                     /codon_start=1
+                     /product="cold-regulated 413 plasma membrane protein
+                     2-like"
+                     /protein_id="XP_021847784.1"
+                     /db_xref="GeneID:110787470"
+                     /translation="MGRRMDYLAMKTEQLAAANLIDSDINELKIAVMALVHDTTTLGG
+                     QSGFGTHFLQWLASFSAIYLLILDRTHWRSNMLTSLLVPYIFLSLPSGPFHLLRGEVG
+                     KWIAFVSVVLRLFFHRSFPEWLEMPVCLILLLVVAPEMLAISMKESWMGVVVVLIIGC
+                     YLLQEHIRATGGLRNSFTQRHGISNTIGLLLLLAYPIWSLFIYML"
+ORIGIN      
+        1 acggaccgga aaaatgggta gacgaatgga ttatttggcg atgaaaaccg agcaattagc
+       61 cgcggccaat ttgatcgatt ccgatatcaa cgagctgaag atcgccgtga tggcgctcgt
+      121 tcatgatact actacgctcg gcggtcaatc gggatttgga actcattttc tccaatggct
+      181 cgcctcattt tctgctattt acttgttaat ccttgatcga acacattgga gaagcaacat
+      241 gcttacttca cttttagtac catacatttt cctaagtctc ccatctggcc cctttcacct
+      301 tttaagaggt gaggttggga aatggattgc ttttgtctcg gttgtgctaa ggttattctt
+      361 ccaccgcagt ttcccagaat ggttggaaat gccagtatgt ttgatactat tattggtggt
+      421 agctccagaa atgcttgcaa tatcaatgaa agagagttgg atgggagttg tagttgtgtt
+      481 aatcatagga tgttaccttc tacaagagca tattagggca actggtggtt taaggaattc
+      541 tttcacacaa agacatggga tttccaacac aattgggctt cttctcttgt tggcttaccc
+      601 aatttggtct ttattcattt atatgctcta gattttgttt aataaagaga aagaattaag
+      661 tgcatttttg ta
+//
+
+LOCUS       XM_010682658             847 bp    mRNA    linear   PLN 29-NOV-2016
+DEFINITION  PREDICTED: Beta vulgaris subsp. vulgaris cold-regulated 413 plasma
+            membrane protein 2 (LOC104895996), mRNA.
+ACCESSION   XM_010682658
+VERSION     XM_010682658.1
+DBLINK      BioProject: PRJNA268352
+KEYWORDS    RefSeq.
+SOURCE      Beta vulgaris subsp. vulgaris
+  ORGANISM  Beta vulgaris subsp. vulgaris
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Chenopodiaceae; Betoideae; Beta.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_025817.2) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Version          :: Beta vulgaris subsp. vulgaris
+                                           Annotation Release 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 7.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..847
+                     /organism="Beta vulgaris subsp. vulgaris"
+                     /mol_type="mRNA"
+                     /sub_species="vulgaris"
+                     /db_xref="taxon:3555"
+                     /chromosome="6"
+                     /tissue_type="taproot"
+                     /genotype="KWS2320 DH"
+     gene            1..847
+                     /gene="LOC104895996"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 7 Proteins, and 100% coverage of
+                     the annotated genomic feature by RNAseq alignments,
+                     including 1 sample with support for all annotated introns"
+                     /db_xref="GeneID:104895996"
+     CDS             57..677
+                     /gene="LOC104895996"
+                     /codon_start=1
+                     /product="cold-regulated 413 plasma membrane protein 2"
+                     /protein_id="XP_010680960.1"
+                     /db_xref="GeneID:104895996"
+                     /translation="MVRGINDNLAMKTEQMALANLIDYDMNELKIALTSLIHDAARLN
+                     GHGGFGTHFLKWLASFAAIYLLILDRTNWRTNMLTSLLVPYIFFSLPTGIFHLLRGEV
+                     GKWIAFIAVVLRLFFHRHFPDWLEMPGCLILLLVVAPNLFAYTMKDDWLGVVVLLIIG
+                     CYLLQEHIRATGGLRNSFTQTHGISNTIGLLLLLAYPIWSIFIFMM"
+ORIGIN      
+        1 aatagcaaag aaggcaatat aaaggaatta aggagttaag gataagtgac gaagaaatgg
+       61 ttagaggaat taatgataat ttggccatga aaactgagca aatggcgttg gctaatttga
+      121 tagattatga tatgaatgaa cttaagatcg ctttgacatc gttaattcat gatgctgcta
+      181 gactcaatgg tcacggagga tttggaactc attttctcaa atggcttgct tcatttgctg
+      241 ctatttattt gctgatcctg gatcgaacaa attggagaac aaacatgcta acatcacttt
+      301 tagtccctta catattcttc agccttccca caggcatctt tcacctttta aggggcgaag
+      361 ttggtaagtg gattgctttt atcgcagttg tactgaggtt atttttccac cgccatttcc
+      421 cagattggtt ggaaatgcca ggatgtttga tactgttgtt ggtggtcgct cccaatttat
+      481 ttgcttatac aatgaaggat gactggttgg gggttgtagt tctgttaatc atagggtgtt
+      541 atctgctaca agagcatata agagcgacgg gtggtctcag gaattccttc actcaaaccc
+      601 atggtatttc taatacaatt gggcttctcc ttctattggc ttaccccatt tggtcgatat
+      661 tcatattcat gatgtagatt catgtcactg atcaagtact tctaccatta agatctttaa
+      721 tcatcgtact aacaatataa gaatgatgtc tagggttttt tttttggttt aatataaaga
+      781 gtgatgtcta agtttttaca ggaagcttat ctaaaatgtt ttacttgatc tggggaccgc
+      841 tgtaact
+//
+
+LOCUS       XM_041168865            1020 bp    mRNA    linear   PLN 03-MAY-2021
+DEFINITION  PREDICTED: Juglans microcarpa x Juglans regia cold-regulated 413
+            plasma membrane protein 2-like (LOC121265293), mRNA.
+ACCESSION   XM_041168865
+VERSION     XM_041168865.1
+DBLINK      BioProject: PRJNA726248
+KEYWORDS    RefSeq.
+SOURCE      Juglans microcarpa x Juglans regia
+  ORGANISM  Juglans microcarpa x Juglans regia
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fagales; Juglandaceae; Juglans.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_054594.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Juglans microcarpa x Juglans regia
+                                           Annotation Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.6
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1020
+                     /organism="Juglans microcarpa x Juglans regia"
+                     /mol_type="mRNA"
+                     /isolate="MS1-56"
+                     /db_xref="taxon:2249226"
+                     /chromosome="1D"
+                     /tissue_type="young leaves"
+                     /dev_stage="seedling"
+                     /country="USA: UC Davis"
+                     /note="This is the F1 progeny of a cross between Juglans
+                     microcarpa isolate 31.01 and Juglans regia cultivar Serr"
+     gene            1..1020
+                     /gene="LOC121265293"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 9 ESTs, 61 long SRA reads, 17
+                     Proteins, and 100% coverage of the annotated genomic
+                     feature by RNAseq alignments, including 107 samples with
+                     support for all annotated introns"
+                     /db_xref="GeneID:121265293"
+     CDS             255..863
+                     /gene="LOC121265293"
+                     /codon_start=1
+                     /product="cold-regulated 413 plasma membrane protein
+                     2-like"
+                     /protein_id="XP_041024799.1"
+                     /db_xref="GeneID:121265293"
+                     /translation="MGRKDNLAMKTDPATADLIDSDNKELKIAAKRLINHATKLGGLG
+                     FGTSFLKWVASFAAIYLLILDRTNWRTNMLTSLLVPYIFFSLPSVLFNFFRGEVGRWI
+                     AFIAVILRLFFPRHFPDWLEMPGSLILLLVVAPSFFAHTLKDSWVGIVICLIIGCYLL
+                     QEHIRASGGFRNSFTQTHGISNTVGIILLLVYPVWALVIHFL"
+ORIGIN      
+        1 tttgtgagat ccgaaacttc gcacaatttt ttaacattat tcacttaact gtgctgtaaa
+       61 ccaagcgccc caacagttac gataaccaat tgattgtact ttgtagagat agatccaaac
+      121 cactggttta cagccacttt ttttctgtac tttatcttcg tttcgctatc ttctctgata
+      181 atttttttaa agaaaattat atcccagttg gctttgcaaa ttcatcttct ttttctgttt
+      241 ggacttgaag cgtaatgggg aggaaggata atttggccat gaaaactgat ccggccacgg
+      301 cggatttgat cgactctgat aacaaagaac tcaagatcgc cgcaaagagg ctcatcaatc
+      361 atgccactaa gcttggtggc ctcggctttg ggacttcttt tctcaaatgg gtcgcttcct
+      421 tcgctgcgat ttatttgctg atattggatc gaaccaactg gagaacaaac atgctgactt
+      481 cacttttagt cccttacata ttctttagcc ttccttcggt gttgttcaat tttttcagag
+      541 gagaggtagg gagatggatt gctttcatcg cagttatact aaggcttttc ttcccgcgac
+      601 acttcccaga ttggctggag atgccaggat ctttgattct tctcttggtt gtggctccca
+      661 gcttctttgc acacaccttg aaggatagct gggttggtat tgtgatatgc cttatcattg
+      721 gttgttacct actgcaagag cacatccgag catctggtgg attcagaaat tccttcactc
+      781 aaacccatgg aatatcgaac acggttggca ttatccttct gttagtctat cctgtatggg
+      841 cacttgtcat ccacttcctc taggcacaag attatctatc tgagttgtga tttatcttct
+      901 ttcttccgca acatctagcc atgattttat tttcaacatt gttttctcag tttaaagttg
+      961 gatggatttt caatattttc ccttacaatt aatttccaat ttatttgatt ttattgcttt
+//
+
+LOCUS       XM_016034586             946 bp    mRNA    linear   PLN 16-MAY-2018
+DEFINITION  PREDICTED: Ziziphus jujuba cold-regulated 413 plasma membrane
+            protein 2-like (LOC107424728), mRNA.
+ACCESSION   XM_016034586
+VERSION     XM_016034586.2
+DBLINK      BioProject: PRJNA315994
+KEYWORDS    RefSeq.
+SOURCE      Ziziphus jujuba (common jujube)
+  ORGANISM  Ziziphus jujuba
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Rosales; Rhamnaceae; Paliureae;
+            Ziziphus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_029686.1) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On May 16, 2018 this sequence version replaced XM_016034586.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Ziziphus jujuba Annotation Release
+                                           101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..946
+                     /organism="Ziziphus jujuba"
+                     /mol_type="mRNA"
+                     /cultivar="Dongzao"
+                     /db_xref="taxon:326968"
+                     /chromosome="8"
+                     /tissue_type="in vitro plantlets"
+                     /country="China: Baoding, Hebei Province"
+     gene            1..946
+                     /gene="LOC107424728"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 8 Proteins, and 100% coverage of
+                     the annotated genomic feature by RNAseq alignments"
+                     /db_xref="GeneID:107424728"
+     CDS             173..781
+                     /gene="LOC107424728"
+                     /codon_start=1
+                     /product="cold-regulated 413 plasma membrane protein
+                     2-like"
+                     /protein_id="XP_015890072.1"
+                     /db_xref="GeneID:107424728"
+                     /translation="MGRMEFLAMRTDPATADLINSDINELKVAAKRLFNDASKLGGLG
+                     FGTSFLKWVASFAAIYLLILDRTNWRTNMLTSLLVPYIFFSLPAALFNLLRGEVGKWI
+                     AFIAVVLRLFFPRHFPDWLEMPGSLILLLVVAPNFFAHTLRDSWVSILICLFIGCYLL
+                     QEHIRASGGFRNSFTQSHGISNTLGIIFLIVYPVWALVLHFI"
+ORIGIN      
+        1 cattctttct ttgaattggc ttaaattagc tgaaaaccag gtgacccaca aacccaaaaa
+       61 agcttccatc tcatccaatg gacagatata ccatatacat acatccaaaa aacggcattt
+      121 aggctccgaa ccattacacc aaccttgctt taccttcttg tcagaagcaa aaatggggag
+      181 gatggagttt ttggctatga gaactgatcc agccacggct gacttgataa attctgatat
+      241 caatgagctt aaggttgcag ccaagaggct tttcaatgat gcctctaagc ttggtggtct
+      301 gggttttggc acttcttttc tcaaatgggt cgcctctttc gctgccattt atttgttgat
+      361 attggatcga acaaactgga gaacaaatat gcttacttca cttttagttc cttatatctt
+      421 cttcagtctt cccgcagcat tgttcaactt gctgagagga gaggtgggaa aatggattgc
+      481 tttcattgca gttgtattaa ggcttttctt cccacgacat ttcccagatt ggttggagat
+      541 gccaggatca ttgattcttc ttctggtcgt ggctccgaac ttctttgcac acacattgag
+      601 ggacagctgg gttagtatac tgatctgcct cttcatcggt tgttacctgc ttcaagaaca
+      661 catcagggca tctgggggat tcagaaattc attcacacag agccatggaa tttcaaacac
+      721 cctcggtatt atctttctga tagtctatcc tgtctgggca ttggttctcc acttcatcta
+      781 ggcttttgta atatgtcttt ctgttgaaac ttgcaaaccg caacaacgtg tatctgttgt
+      841 aggctccact tttattgtca gcaataagcc tttttttttt ttttggttat ttatattatt
+      901 tgataaagaa atttggtaaa caattcgttc actctcgtgt tattga
+//
+
+LOCUS       XM_043119049            1036 bp    mRNA    linear   PLN 17-AUG-2021
+DEFINITION  PREDICTED: Carya illinoinensis cold-regulated 413 plasma membrane
+            protein 2-like (LOC122306609), transcript variant X2, mRNA.
+ACCESSION   XM_043119049
+VERSION     XM_043119049.1
+DBLINK      BioProject: PRJNA754407
+KEYWORDS    RefSeq.
+SOURCE      Carya illinoinensis
+  ORGANISM  Carya illinoinensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fagales; Juglandaceae; Carya.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_056752.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Carya illinoinensis Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 9.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1036
+                     /organism="Carya illinoinensis"
+                     /mol_type="mRNA"
+                     /cultivar="Pawnee"
+                     /db_xref="taxon:32201"
+                     /chromosome="1"
+                     /tissue_type="Leaf"
+                     /dev_stage="etiolated immature"
+                     /country="USA: Somerville, TX"
+                     /collection_date="08-May-2017"
+                     /collected_by="LJ Grauke"
+     gene            1..1036
+                     /gene="LOC122306609"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 9 ESTs, 18 Proteins, and 100%
+                     coverage of the annotated genomic feature by RNAseq
+                     alignments, including 110 samples with support for all
+                     annotated introns"
+                     /db_xref="GeneID:122306609"
+     CDS             246..854
+                     /gene="LOC122306609"
+                     /codon_start=1
+                     /product="cold-regulated 413 plasma membrane protein
+                     2-like"
+                     /protein_id="XP_042974983.1"
+                     /db_xref="GeneID:122306609"
+                     /translation="MGRKDYLAMKTDPATADLIDSDIKELKIAAKRLITHATKLGGLG
+                     FGTSFLKWVASFAAIYLLILDRTNWRTNMLTSLLVPYIFFSLPSVLFNFFRGEVGRWI
+                     AFIAVILRLFFPRHFPDWLEMPGSLILLLVVAPSFFAHTLKDSWVGVVICLIIGCYLL
+                     QEHIRASGGFRNSFTQTHGISNTVGIIVLLVYPVWALVVHFL"
+     polyA_site      1036
+                     /gene="LOC122306609"
+                     /experiment="COORDINATES: polyA evidence [ECO:0006239]"
+ORIGIN      
+        1 gacatgaccg agcaaagagt gttgcgtagg ccatggcgaa ccatgaggcg tgcatcctcc
+       61 cccaacactc gaagctagag atagtttgtg agatccgaaa cttcgcacaa ttctttaata
+      121 ttattcacta tctgtgctga aaaccaagcg ccccaacagt tccggcaacc aattgattgt
+      181 agagatagat ccaaaccagc agcttgaaag tcatttcgtc ctaaaggcac tttttctttc
+      241 tcgtgatggg gaggaaggat tatttggcca tgaaaactga tccggccacg gcggatttga
+      301 tcgactctga tatcaaagaa ctcaagatcg ccgcaaagag gctcatcact catgccacta
+      361 agcttggtgg cctcggcttt gggacttctt ttctcaaatg ggtcgcttcc ttcgctgcaa
+      421 tttatttgct gatattggat cgaaccaact ggagaacaaa catgctgact tcacttttag
+      481 tcccttacat attctttagc cttccttcgg tgttgttcaa ttttttcaga ggagaggtag
+      541 ggagatggat tgctttcatc gcagttatac taaggctttt cttcccgcga cacttcccag
+      601 attggctgga gatgccagga tctttgattc ttctcctggt tgtggctccc agcttctttg
+      661 cacacacctt gaaggatagc tgggttggtg tcgtgatatg ccttatcatt ggttgttacc
+      721 tattgcaaga gcacatccga gcttctggtg gattcagaaa ttccttcact caaacccatg
+      781 gaatatcgaa cacggttggc attatcgttc tgttagtcta tcctgtatgg gcacttgtcg
+      841 tccacttcct ctaggcacaa gattatctat ctctctagtc ttgatttatc ttccttgatc
+      901 cgcaacatct agccataatt ttattttcaa tgtttcgtac attgttttct cagtttaaag
+      961 ttggattgat tttcaatatt ttcccttaca atttccaact tattcaattt taatgctttt
+     1021 atggcttgtc aagtta
+//
+
+LOCUS       XM_043119041            1020 bp    mRNA    linear   PLN 17-AUG-2021
+DEFINITION  PREDICTED: Carya illinoinensis cold-regulated 413 plasma membrane
+            protein 2-like (LOC122306609), transcript variant X1, mRNA.
+ACCESSION   XM_043119041
+VERSION     XM_043119041.1
+DBLINK      BioProject: PRJNA754407
+KEYWORDS    RefSeq.
+SOURCE      Carya illinoinensis
+  ORGANISM  Carya illinoinensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fagales; Juglandaceae; Carya.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_056752.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Carya illinoinensis Annotation
+                                           Release 100
+            Annotation Version          :: 100
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 9.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1020
+                     /organism="Carya illinoinensis"
+                     /mol_type="mRNA"
+                     /cultivar="Pawnee"
+                     /db_xref="taxon:32201"
+                     /chromosome="1"
+                     /tissue_type="Leaf"
+                     /dev_stage="etiolated immature"
+                     /country="USA: Somerville, TX"
+                     /collection_date="08-May-2017"
+                     /collected_by="LJ Grauke"
+     gene            1..1020
+                     /gene="LOC122306609"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 9 ESTs, 18 Proteins, and 100%
+                     coverage of the annotated genomic feature by RNAseq
+                     alignments, including 144 samples with support for all
+                     annotated introns"
+                     /db_xref="GeneID:122306609"
+     CDS             230..838
+                     /gene="LOC122306609"
+                     /codon_start=1
+                     /product="cold-regulated 413 plasma membrane protein
+                     2-like"
+                     /protein_id="XP_042974975.1"
+                     /db_xref="GeneID:122306609"
+                     /translation="MGRKDYLAMKTDPATADLIDSDIKELKIAAKRLITHATKLGGLG
+                     FGTSFLKWVASFAAIYLLILDRTNWRTNMLTSLLVPYIFFSLPSVLFNFFRGEVGRWI
+                     AFIAVILRLFFPRHFPDWLEMPGSLILLLVVAPSFFAHTLKDSWVGVVICLIIGCYLL
+                     QEHIRASGGFRNSFTQTHGISNTVGIIVLLVYPVWALVVHFL"
+     polyA_site      1020
+                     /gene="LOC122306609"
+                     /experiment="COORDINATES: polyA evidence [ECO:0006239]"
+ORIGIN      
+        1 acatgaccga gcaaagagtg ttgcgtaggc catggcgaac catgaggcgt gcatcctccc
+       61 ccaacactcg aagctagaga tagtttgtga gatccgaaac ttcgcacaat tctttaatat
+      121 tattcactat ctgtgctgaa aaccaagcgc cccaacagtt ccggcaacca attgattgta
+      181 gagatagatc caaaccagca gcttgaaagt catttcgtcc taaagcgtga tggggaggaa
+      241 ggattatttg gccatgaaaa ctgatccggc cacggcggat ttgatcgact ctgatatcaa
+      301 agaactcaag atcgccgcaa agaggctcat cactcatgcc actaagcttg gtggcctcgg
+      361 ctttgggact tcttttctca aatgggtcgc ttccttcgct gcaatttatt tgctgatatt
+      421 ggatcgaacc aactggagaa caaacatgct gacttcactt ttagtccctt acatattctt
+      481 tagccttcct tcggtgttgt tcaatttttt cagaggagag gtagggagat ggattgcttt
+      541 catcgcagtt atactaaggc ttttcttccc gcgacacttc ccagattggc tggagatgcc
+      601 aggatctttg attcttctcc tggttgtggc tcccagcttc tttgcacaca ccttgaagga
+      661 tagctgggtt ggtgtcgtga tatgccttat cattggttgt tacctattgc aagagcacat
+      721 ccgagcttct ggtggattca gaaattcctt cactcaaacc catggaatat cgaacacggt
+      781 tggcattatc gttctgttag tctatcctgt atgggcactt gtcgtccact tcctctaggc
+      841 acaagattat ctatctctct agtcttgatt tatcttcctt gatccgcaac atctagccat
+      901 aattttattt tcaatgtttc gtacattgtt ttctcagttt aaagttggat tgattttcaa
+      961 tattttccct tacaatttcc aacttattca attttaatgc ttttatggct tgtcaagtta
+//
+
+LOCUS       XM_035691634             909 bp    mRNA    linear   PLN 29-JUL-2020
+DEFINITION  PREDICTED: Juglans regia cold-regulated 413 plasma membrane protein
+            2 (LOC108995251), transcript variant X2, mRNA.
+ACCESSION   XM_035691634
+VERSION     XM_035691634.1
+DBLINK      BioProject: PRJNA350852
+KEYWORDS    RefSeq.
+SOURCE      Juglans regia (English walnut)
+  ORGANISM  Juglans regia
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fagales; Juglandaceae; Juglans.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_049907.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Juglans regia Annotation Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.5
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..909
+                     /organism="Juglans regia"
+                     /mol_type="mRNA"
+                     /cultivar="Chandler"
+                     /isolation_source="plant at flowering time"
+                     /db_xref="taxon:51240"
+                     /chromosome="7"
+                     /tissue_type="leaves"
+                     /country="USA: California, Davis"
+     gene            1..909
+                     /gene="LOC108995251"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 9 ESTs, 1 long SRA read, 19
+                     Proteins, and 100% coverage of the annotated genomic
+                     feature by RNAseq alignments, including 12 samples with
+                     support for all annotated introns"
+                     /db_xref="GeneID:108995251"
+     CDS             131..751
+                     /gene="LOC108995251"
+                     /codon_start=1
+                     /product="cold-regulated 413 plasma membrane protein 2"
+                     /protein_id="XP_035547527.1"
+                     /db_xref="GeneID:108995251"
+                     /translation="MGRKDYLAMKTDPATATATADLIDSDNKELKIAAKRLINHATKL
+                     GGLGFGTSFLKWVASFAAIYLLILDRTNWRTNMLTSLLVPYIFFSLPSVLFNFFRGEV
+                     GRWIAFIAVILRLFFPRHFPDWLEMPGSLILLLVVAPSFFAHTLKDSWVGIVICLIIG
+                     CYLLQEHIRASGGFRNSFTQTHGISNTVGIILLLVYPVWALVIHFL"
+ORIGIN      
+        1 acttcgcaca atttttttaa cattattcac ttaaccgtgc tgtaaacaaa gcgccccaac
+       61 agttacgata accatcgaga tagatccaaa ccagcagctt gaaagtcatt aaagccactt
+      121 ttttcttgta atggggagga aggattattt ggccatgaaa actgatccgg ccacggccac
+      181 ggccacggcg gatttgatcg actctgataa caaagaactc aagatcgccg caaagaggct
+      241 catcaatcat gccactaagc ttggtggcct cggctttggg acttcttttc tcaaatgggt
+      301 cgcttccttc gctgcaattt atttgctgat attggatcga accaactgga gaacaaacat
+      361 gctgacttca cttttagtcc cttacatatt ctttagcctt ccttcggtgt tgttcaattt
+      421 tttcagagga gaggtaggga gatggattgc tttcattgca gttatactaa ggcttttctt
+      481 cccgcgacac ttcccagatt ggctggagat gccaggatct ttgattcttc tcctggttgt
+      541 ggctcccagc ttctttgcac acaccttgaa ggatagctgg gttggtatcg tgatatgcct
+      601 tatcattggt tgttacctac tgcaagagca catccgagca tctggtggat tcagaaattc
+      661 cttcactcaa acccatggaa tatcgaacac ggttggcatt atccttctgt tagtctatcc
+      721 tgtatgggca cttgtcatcc acttcctcta ggcacaagat tatctatctg agttgtgatt
+      781 tatcttcttt cttccgcaac atctagccat gattttattt tcatacattg ttttctcagt
+      841 ttaaagttgg atggattttc aatattttcc cttacaatta atttccaatt tatttgattt
+      901 tattgcttt
+//
+
+LOCUS       XM_018970776            1025 bp    mRNA    linear   PLN 29-JUL-2020
+DEFINITION  PREDICTED: Juglans regia cold-regulated 413 plasma membrane protein
+            2 (LOC108995251), transcript variant X1, mRNA.
+ACCESSION   XM_018970776
+VERSION     XM_018970776.2
+DBLINK      BioProject: PRJNA350852
+KEYWORDS    RefSeq.
+SOURCE      Juglans regia (English walnut)
+  ORGANISM  Juglans regia
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fagales; Juglandaceae; Juglans.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_049907.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On Jul 29, 2020 this sequence version replaced XM_018970776.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Juglans regia Annotation Release 101
+            Annotation Version          :: 101
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.5
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1025
+                     /organism="Juglans regia"
+                     /mol_type="mRNA"
+                     /cultivar="Chandler"
+                     /isolation_source="plant at flowering time"
+                     /db_xref="taxon:51240"
+                     /chromosome="7"
+                     /tissue_type="leaves"
+                     /country="USA: California, Davis"
+     gene            1..1025
+                     /gene="LOC108995251"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 9 ESTs, 55 long SRA reads, 19
+                     Proteins, and 100% coverage of the annotated genomic
+                     feature by RNAseq alignments, including 34 samples with
+                     support for all annotated introns"
+                     /db_xref="GeneID:108995251"
+     CDS             247..867
+                     /gene="LOC108995251"
+                     /codon_start=1
+                     /product="cold-regulated 413 plasma membrane protein 2"
+                     /protein_id="XP_018826321.1"
+                     /db_xref="GeneID:108995251"
+                     /translation="MGRKDYLAMKTDPATATATADLIDSDNKELKIAAKRLINHATKL
+                     GGLGFGTSFLKWVASFAAIYLLILDRTNWRTNMLTSLLVPYIFFSLPSVLFNFFRGEV
+                     GRWIAFIAVILRLFFPRHFPDWLEMPGSLILLLVVAPSFFAHTLKDSWVGIVICLIIG
+                     CYLLQEHIRASGGFRNSFTQTHGISNTVGIILLLVYPVWALVIHFL"
+ORIGIN      
+        1 gtgatatccg aaacttcgca caattttttt aacattattc acttaaccgt gctgtaaaca
+       61 aagcgcccca acagttacga taaccatcga gatagatcca aaccagcagc ttgaaagtca
+      121 ttaaagccac ttttttctgt actttatctt cgtttcgcta tcttctctga taattttttt
+      181 aaagaaaatt atatcccagt tggctttgca aattcatcat ctttttctgt ttggacttga
+      241 agtgtaatgg ggaggaagga ttatttggcc atgaaaactg atccggccac ggccacggcc
+      301 acggcggatt tgatcgactc tgataacaaa gaactcaaga tcgccgcaaa gaggctcatc
+      361 aatcatgcca ctaagcttgg tggcctcggc tttgggactt cttttctcaa atgggtcgct
+      421 tccttcgctg caatttattt gctgatattg gatcgaacca actggagaac aaacatgctg
+      481 acttcacttt tagtccctta catattcttt agccttcctt cggtgttgtt caattttttc
+      541 agaggagagg tagggagatg gattgctttc attgcagtta tactaaggct tttcttcccg
+      601 cgacacttcc cagattggct ggagatgcca ggatctttga ttcttctcct ggttgtggct
+      661 cccagcttct ttgcacacac cttgaaggat agctgggttg gtatcgtgat atgccttatc
+      721 attggttgtt acctactgca agagcacatc cgagcatctg gtggattcag aaattccttc
+      781 actcaaaccc atggaatatc gaacacggtt ggcattatcc ttctgttagt ctatcctgta
+      841 tgggcacttg tcatccactt cctctaggca caagattatc tatctgagtt gtgatttatc
+      901 ttctttcttc cgcaacatct agccatgatt ttattttcat acattgtttt ctcagtttaa
+      961 agttggatgg attttcaata ttttccctta caattaattt ccaatttatt tgattttatt
+     1021 gcttt
+//
+
+LOCUS       XM_006466626             880 bp    mRNA    linear   PLN 16-MAY-2018
+DEFINITION  PREDICTED: Citrus sinensis cold-regulated 413 plasma membrane
+            protein 2 (LOC102620025), transcript variant X5, mRNA.
+ACCESSION   XM_006466626
+VERSION     XM_006466626.3
+DBLINK      BioProject: PRJNA225998
+KEYWORDS    RefSeq.
+SOURCE      Citrus sinensis (sweet orange)
+  ORGANISM  Citrus sinensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Sapindales; Rutaceae; Aurantioideae;
+            Citrus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_023046.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On May 16, 2018 this sequence version replaced XM_006466626.2.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Citrus sinensis Annotation Release
+                                           102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..880
+                     /organism="Citrus sinensis"
+                     /mol_type="mRNA"
+                     /cultivar="Valencia"
+                     /db_xref="taxon:2711"
+                     /chromosome="1"
+                     /country="China"
+     gene            1..880
+                     /gene="LOC102620025"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 9 ESTs, 8 Proteins, and 100%
+                     coverage of the annotated genomic feature by RNAseq
+                     alignments, including 99 samples with support for all
+                     annotated introns"
+                     /db_xref="GeneID:102620025"
+     CDS             98..709
+                     /gene="LOC102620025"
+                     /codon_start=1
+                     /product="cold-regulated 413 plasma membrane protein 2"
+                     /protein_id="XP_006466689.1"
+                     /db_xref="GeneID:102620025"
+                     /translation="MGRLNYLAMKTDDQVAAELISSDFNELKIAAKKLVNDATRLGGL
+                     GFGTSFLKWVASFAAIYLLILDRTNWRSNMLTALLVPYIFFSFPSVLFNFFRGEVGRW
+                     IAFIAVVLRLFFPRHFPDWLDMPGSLILLLVVAPSFFAHTLKDSWVGVVICLLIGCYL
+                     LQEHIRASGGFRNSFTQGHGISNTLGIVLLLVYPVWALVLHLI"
+ORIGIN      
+        1 agtaatagct actgataagc gtcttactcc tcttagttgt ctcttgtctg tctttgcgta
+       61 gggttggatt tcttgtttcc cggaacggaa aggcgaaatg gggagattga attatttggc
+      121 tatgaaaact gatgatcagg ttgcagcaga gttgatcagc tctgatttca atgagcttaa
+      181 gattgctgca aaaaagctcg tcaatgatgc aaccaggctt gggggccttg gcttcggcac
+      241 ttcttttctc aaatgggttg cctcctttgc tgctatttac ttgttgatat tggatcgaac
+      301 aaactggaga tcgaacatgc tgactgcact cttagtacct tacatattct ttagttttcc
+      361 ctcagtgcta ttcaactttt ttagaggaga ggttggaaga tggatagctt tcattgcagt
+      421 agtgctaaga cttttctttc caagacattt tccagattgg ctggatatgc ctggatcgct
+      481 gattcttctt ttagtggtgg ctccaagttt ctttgcacac acgctgaagg acagctgggt
+      541 tggtgttgta atttgtcttc taattggctg ttacttactg caagaacaca ttagagcatc
+      601 tggtgggttc agaaattctt tcactcaagg ccacggtatt tccaacactc tcggcattgt
+      661 tcttctgttg gtgtaccctg tctgggcctt ggtgcttcac ctcatctagt tcctctagtt
+      721 ctagtacctt ggactgcaga attgtgtttg cctgtgcaac caactggaac atgaacaaaa
+      781 acattcttat ttttaccaag aatatgtgta tgctttagaa ttttaataaa ccaatgtcaa
+      841 ccctcgtttg cttaaaatat gttttaatct ttgttccaaa
+//
+
+LOCUS       XM_006466625             946 bp    mRNA    linear   PLN 16-MAY-2018
+DEFINITION  PREDICTED: Citrus sinensis cold-regulated 413 plasma membrane
+            protein 2 (LOC102620025), transcript variant X4, mRNA.
+ACCESSION   XM_006466625
+VERSION     XM_006466625.2
+DBLINK      BioProject: PRJNA225998
+KEYWORDS    RefSeq.
+SOURCE      Citrus sinensis (sweet orange)
+  ORGANISM  Citrus sinensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Sapindales; Rutaceae; Aurantioideae;
+            Citrus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_023046.1) annotated using gene prediction method: Gnomon,
+            supported by EST evidence.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            On May 16, 2018 this sequence version replaced XM_006466625.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Full annotation
+            Annotation Name             :: Citrus sinensis Annotation Release
+                                           102
+            Annotation Version          :: 102
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.0
+            Annotation Method           :: Best-placed RefSeq; Gnomon
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..946
+                     /organism="Citrus sinensis"
+                     /mol_type="mRNA"
+                     /cultivar="Valencia"
+                     /db_xref="taxon:2711"
+                     /chromosome="1"
+                     /country="China"
+     gene            1..946
+                     /gene="LOC102620025"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 9 ESTs, 8 Proteins, and 100%
+                     coverage of the annotated genomic feature by RNAseq
+                     alignments, including 97 samples with support for all
+                     annotated introns"
+                     /db_xref="GeneID:102620025"
+     CDS             164..775
+                     /gene="LOC102620025"
+                     /codon_start=1
+                     /product="cold-regulated 413 plasma membrane protein 2"
+                     /protein_id="XP_006466688.1"
+                     /db_xref="GeneID:102620025"
+                     /translation="MGRLNYLAMKTDDQVAAELISSDFNELKIAAKKLVNDATRLGGL
+                     GFGTSFLKWVASFAAIYLLILDRTNWRSNMLTALLVPYIFFSFPSVLFNFFRGEVGRW
+                     IAFIAVVLRLFFPRHFPDWLDMPGSLILLLVVAPSFFAHTLKDSWVGVVICLLIGCYL
+                     LQEHIRASGGFRNSFTQGHGISNTLGIVLLLVYPVWALVLHLI"
+ORIGIN      
+        1 tccgaaactt atggcagttg gcgtcaatgt ctcacattct cgaaagggtt aaaagctaag
+       61 ctcaaaacgc gggggccccc tcacagttac ttgcactttg gtttccaaag ataaaatatc
+      121 caacaagggt tggatttctt gtttcccgga acggaaaggc gaaatgggga gattgaatta
+      181 tttggctatg aaaactgatg atcaggttgc agcagagttg atcagctctg atttcaatga
+      241 gcttaagatt gctgcaaaaa agctcgtcaa tgatgcaacc aggcttgggg gccttggctt
+      301 cggcacttct tttctcaaat gggttgcctc ctttgctgct atttacttgt tgatattgga
+      361 tcgaacaaac tggagatcga acatgctgac tgcactctta gtaccttaca tattctttag
+      421 ttttccctca gtgctattca acttttttag aggagaggtt ggaagatgga tagctttcat
+      481 tgcagtagtg ctaagacttt tctttccaag acattttcca gattggctgg atatgcctgg
+      541 atcgctgatt cttcttttag tggtggctcc aagtttcttt gcacacacgc tgaaggacag
+      601 ctgggttggt gttgtaattt gtcttctaat tggctgttac ttactgcaag aacacattag
+      661 agcatctggt gggttcagaa attctttcac tcaaggccac ggtatttcca acactctcgg
+      721 cattgttctt ctgttggtgt accctgtctg ggccttggtg cttcacctca tctagttcct
+      781 ctagttctag taccttggac tgcagaattg tgtttgcctg tgcaaccaac tggaacatga
+      841 acaaaaacat tcttattttt accaagaata tgtgtatgct ttagaatttt aataaaccaa
+      901 tgtcaaccct cgtttgctta aaatatgttt taatctttgt tccaaa
+//
+
