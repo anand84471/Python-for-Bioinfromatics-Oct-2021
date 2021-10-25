@@ -55,3 +55,6 @@ unique_aa_chains=set(ls_aa_chanis)
 print(len(unique_aa_chains))
 
 
+
+
+

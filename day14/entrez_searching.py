@@ -1,4 +1,4 @@
-from os import path
+
 from Bio import Entrez
 from Bio import SeqIO
 Entrez.email="temp@gmail.com"
